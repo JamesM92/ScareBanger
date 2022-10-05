@@ -1,0 +1,16 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+A1,ARDNANO30NP,1,Arduino_Nano_v3.x,
+J3,TerminalBlock_bornier-6_P5.08mm,1,Screw_Terminal_01x06,
+SW2,SpDt SlideSwitch,1,SW_SPDT,
+J6,TerminalBlock_bornier-6_P5.08mm,1,Screw_Terminal_01x06,
+J7,TerminalBlock_bornier-6_P5.08mm,1,Screw_Terminal_01x06,
+J2,691311500105,1,1757271,
+S1,SW_PUSH_6mm,1,GPTS203211B,GPTS203211B
+J17,PinHeader_1x10_P5.0mm_Horizontal,1,Screw_Terminal_01x10 -  HILETGO RLEAY BOARD,
+R2,R_Axial_DIN0516_L15.5mm_D5.0mm_P5.08mm_Vertical,1,10K,
+J1,54602908LF,1,RJ45,
+SW1,SpDt SlideSwitch,1,SW_SPDT,
+J4,Vertical-BarrelJack_54-00287,1,Barrel_Jack_Switch,
+J16,PinSocket_1x10_P2.54mm_Vertical,1,Conn_01x10_Female - SAINSMART CONNECTOR,
+JP1,SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm,1,SolderJumper_3_Bridged12,
+JP2,SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm,1,SolderJumper_3_Bridged12,
