@@ -21,3 +21,4 @@ Features
 -Digikey part library -> https://www.digikey.com/en/resources/design-tools/kicad  
 
 
+![image](https://user-images.githubusercontent.com/36548759/194206516-aa99e185-f815-4c5c-9589-b671d21791fc.png)
