@@ -20,9 +20,9 @@ enum {D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13};
 
 int8_t PIN_MAPS[PIN_MAP_COUNT][11] = {
 //  <------------ Output Pins ------------>  Tr-in  Tr-out  MP-out
-   {  D5,   D6,   D7,   D8,   D9,   A0,   A1,   A2,    D4,     D2,     D3} ,  // Default_TTL
-   {  D5,   D6,   D7,   D8,   D9,   A0,   A1,   A2,    D4,     D2,     D3} ,  // Shield 
-   {  D5,   D6,   D7,   D8,   D9,   A0,   A1,   A2,    D4,     D2,     D3}   // Custom
+   {  D5,   D6,   D7,   D8,   D9,   A0,   A1,   A2,    D4,     D2,     A3} ,  // Default_TTL
+   {  D5,   D6,   D7,   D8,   D9,   A0,   A1,   A2,    D4,     D2,     A3} ,  // Shield 
+   {  D5,   D6,   D7,   D8,   D9,   A0,   A1,   A2,    D4,     D2,     A3}   // Custom
 };
 
 

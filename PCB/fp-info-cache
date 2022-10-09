@@ -1,4 +1,4 @@
-21189747964582087
+21193078667030596
 Arduino
 Arduino_101_Shield
 https://store.arduino.cc/genuino-101
@@ -79023,6 +79023,13 @@ Integrated Circuit
 30
 30
 SamacSys_Parts
+DIPS1778W50P254L2100H170Q16N
+MP3-TF-16P
+Undefined or Miscellaneous
+0
+16
+16
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -86129,6 +86136,13 @@ varistor SIOV
 2
 custom
 PJ-044b-vertical barrel jack
+
+
+0
+3
+3
+custom
+PJ-301C HeadPhoneJack
 
 
 0
