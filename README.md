@@ -1,5 +1,5 @@
-# ScareBanger_PCB
-The ScareBanger_PCB is intended to be an all around arduino breakout board, intended primarily for use with relay boards in haunted house prop control using the octobanger gui prop control software. 
+# ScareBanger
+The ScareBanger is intended to be an all around arduino breakout board, intended primarily for use with relay boards in haunted house prop control using the octobanger gui prop control software. 
 
 It is desigend to connect directly to sainsmart 4/8 ch  or HiLetGo 1/2/4/8 ch relay boards to reduce the need for wiring. While providing access to the pins needed for I2C, SPI, RX/TX, interrupt, and analog pins that may be needed for more advanced projects.
 
@@ -21,3 +21,4 @@ Features
 -Digikey part library -> https://www.digikey.com/en/resources/design-tools/kicad  
 
 
+![image](https://user-images.githubusercontent.com/36548759/194868419-1c13d4f6-b788-4d42-8b6d-f767ab61ed46.png)
